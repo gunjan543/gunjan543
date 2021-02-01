@@ -7,9 +7,11 @@
  
 ##  I am a Student of Bachelor Of Technology (Computer Science) at RCEW
 <h3 align="center">MERN stack web developer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gunjan543&label=Profile%20views&color=0e75b6&style=flat" alt="gunjan543" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gunjan543&show_icons=true&locale=en" alt="gunjan543" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan543&" alt="gunjan543" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjan543&show_icons=true&locale=en&layout=compact" alt="gunjan543" /></p>
+
 
 ### Languages and Tools:
 
