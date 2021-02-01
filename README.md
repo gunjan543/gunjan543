@@ -6,6 +6,11 @@
 </p>
  
 ##  I am a Student of Bachelor Of Technology (Computer Science) at RCEW
+<h3 align="center">MERN stack web developer</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gunjan543&show_icons=true&locale=en" alt="gunjan543" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan543&" alt="gunjan543" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjan543&show_icons=true&locale=en&layout=compact" alt="gunjan543" /></p>
+
 ### Languages and Tools:
 
 <img align="left" alt="C++" width="26px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" />
