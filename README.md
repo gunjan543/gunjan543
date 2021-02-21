@@ -20,7 +20,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/javascript.png" />
-<img align="left" alt="MongoDB" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="56.1px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="express" width="56px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" />
 <img align="left" alt="React" width="36px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/react.png" />
 <img align="left" alt="Node.js" width="36px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
